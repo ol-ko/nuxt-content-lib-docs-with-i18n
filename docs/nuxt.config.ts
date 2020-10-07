@@ -1,6 +1,5 @@
 export default {
   ssr: false,
-  target: 'static',
   components: true,
   css: [],
   plugins: [],
