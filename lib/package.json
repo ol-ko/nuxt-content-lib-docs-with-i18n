@@ -1,0 +1,10 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "sideEffects": false,
+  "main": "src/index.ts",
+  "peerDependencies": {
+    "sass-loader": "^10.0.2",
+    "vue": "^2.6.12"
+  }
+}
