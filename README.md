@@ -10,8 +10,7 @@
 
 ## To run the example:
 ```
-cd docs && yarn
-yarn dev
+cd docs && yarn && yarn dev
 ```
 
 ## To reproduce the problem:
