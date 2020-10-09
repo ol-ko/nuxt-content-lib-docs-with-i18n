@@ -19,3 +19,7 @@ Once application has started, visit:
 
 - [https://localhost:3000/StyleButton/StyleButton](https://localhost:3000/StyleButton/StyleButton) - this would be rendered as expected, proving that components get registered
 - [https://localhost:3000/ControlPanel/ControlPanel](https://localhost:3000/ControlPanel/ControlPanel) - here the preview will not be rendered due to the absence of `$t` method on the Vue instance
+
+## Error
+
+![Error screenshot](error.png "Logo Title Text 1")
