@@ -1,9 +1,9 @@
 <template>
   <div>
     <h1>{{ $t(label) }}</h1>
-    <StyleButton :text="$t('add')" />
-    <StyleButton :text="$t('edit')" />
-    <StyleButton :text="$t('remove')" />
+    <StyleButton>{{ $t('add') }}</StyleButton>
+    <StyleButton>{{ $t('edit') }}</StyleButton>
+    <StyleButton>{{ $t('remove') }}</StyleButton>
   </div>
 </template>
 
